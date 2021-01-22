@@ -1,0 +1,2 @@
+Refazendo o jogo do dinossauro, que abre uma janela que contém um jogo básico do dinossaro da falha de conexão.
+Foi baseado no programa descrito pelo orientador Celso Henrique para a Digital Innovation One.
